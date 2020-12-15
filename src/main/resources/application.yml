@@ -17,7 +17,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     password: Wed114130
-    url: jdbc:mysql://yiidii:3306/panel?useUnicode=true&characterEncoding=UTF-8
+    url: jdbc:mysql://yiidii.cn:3306/panel?useUnicode=true&characterEncoding=UTF-8
     username: root
 
 mybatis:
